@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1567174169 source:d:\rios\funcionesenc\programacion2\main.c
+	<stdlib.h>
+
+1567173870 source:d:\rios\funcionesenc\aritmeticas.c
+	"Aritmeticas.h"
+
+1567173887 d:\rios\funcionesenc\aritmeticas.h
+	<stdio.h>
+

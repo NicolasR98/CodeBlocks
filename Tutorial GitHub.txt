@@ -1,0 +1,6 @@
+
+
+
+
+4_ Hacer commit:  git commit -m "mensaje del commit"
+5_ Subo todos los commits a github
